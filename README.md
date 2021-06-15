@@ -71,9 +71,3 @@
 * Trello: a collaboration tool that organizes your projects into boards.
 * git and github : version control.
 
-
-## Unsolved problem :
-* Integrating our webiste with a video call API .
-
-## link to Tashafi backed repo :
-https://git.generalassemb.ly/x3bodee/Tashafi-Backend/blob/master/README.md 
