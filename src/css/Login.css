@@ -1,0 +1,30 @@
+.btn-primary {
+    color: #fff;
+    background-color: #813AFE !important;
+    border-color: #813AFE !important;
+}
+.icon-img{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 2rem;
+}
+.reset{
+    color: black;
+}
+
+.btn-colorr{
+    background-color: #C55FFC    !important;
+    color: white!important;
+}
+
+.opt{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.fullwidth{
+    width: 100%;
+}
